@@ -1,4 +1,4 @@
-# Awesome Dribbble [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Dribbble [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -83,10 +83,10 @@ Dribbble is a popular platform for designers to showcase their work, discover in
 
 ## Related Awesome Lists
 
-- **[Awesome Design](https://github.com/awesomelistsio/awesome-design)** – General design tools and practices.
-- **[Awesome UI Components](https://github.com/awesomelistsio/awesome-ui-components)** – UI elements and toolkits.
-- **[Awesome Figma](https://github.com/awesomelistsio/awesome-figma)** – Resources for Figma.
-- **[Awesome UX](https://github.com/awesomelistsio/awesome-ux)** – UX principles, tools, and resources.
+- **[Awesome Design](https://github.com/brandonhimpfen/awesome-design)** – General design tools and practices.
+- **[Awesome UI Components](https://github.com/brandonhimpfen/awesome-ui-components)** – UI elements and toolkits.
+- **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)** – Resources for Figma.
+- **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux)** – UX principles, tools, and resources.
   
 ## Contribute
 
